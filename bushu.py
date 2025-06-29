@@ -11,8 +11,9 @@ import numpy as np
 # In[2]:
 
 
-data = pd.read_csv('C:/Users/pz/Desktop/mss.csv')
+data = pd.read_csv('mss(1).csv')
 df = pd.DataFrame(data)
+
 
 
 # In[3]:
