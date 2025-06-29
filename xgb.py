@@ -13,7 +13,7 @@ from sklearn.model_selection import train_test_split
 # In[2]:
 
 
-data = pd.read_csv('C:/Users/pz/Desktop/mss.csv')
+data = pd.read_csv('C:/Users/27854/Desktop/mss.csv')
 df = pd.DataFrame(data)
 
 
